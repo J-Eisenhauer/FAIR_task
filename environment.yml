@@ -1,3 +1,5 @@
+name: permutation-entropy-workflow
+
 channels:
   - conda-forge
 
