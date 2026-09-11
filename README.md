@@ -5,8 +5,8 @@ A small reproducible Jupyter workflow comparing normalized permutation entropy
 
 ## Design
 
-- 1,000,000 samples per realization
-- 10 independent realizations per process
+- 1,000 samples per realization
+- 100 independent realizations per process
 - normalized permutation entropy with m = 4 and tau = 1
 - deterministic random seed
 - mean and sample standard deviation across realizations
